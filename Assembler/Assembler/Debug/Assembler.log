@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Архітектура та схемотехніка\Assembler\Assembler\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Assembler.vcxproj -> D:\Архітектура та схемотехніка\Assembler\Debug\Assembler.exe
